@@ -1,0 +1,61 @@
+{
+  "playlistId": "sample_playlist_001",
+  "playlistName": "Sample Signage Playlist",
+  "version": 1,
+  "items": [
+    {
+      "id": "item_001",
+      "type": "video",
+      "durationSeconds": 30,
+      "mediaUrl": "https://cdn.example.com/videos/sample_promo.mp4"
+    },
+    {
+      "id": "item_002",
+      "type": "image",
+      "durationSeconds": 10,
+      "mediaUrl": "https://cdn.example.com/images/sample_poster.jpg"
+    },
+    {
+      "id": "item_003",
+      "type": "text",
+      "durationSeconds": 8,
+      "content": "Welcome to our store! Today's special offers inside."
+    },
+    {
+      "id": "item_004",
+      "type": "banner",
+      "durationSeconds": 5,
+      "content": "SALE - Up to 50% off this weekend only"
+    },
+    {
+      "id": "item_005",
+      "type": "web",
+      "durationSeconds": 20,
+      "mediaUrl": "https://example.com/signage-widget"
+    },
+    {
+      "id": "item_006",
+      "type": "layout",
+      "durationSeconds": 15,
+      "regions": [
+        {
+          "regionId": "main",
+          "type": "video",
+          "mediaUrl": "https://cdn.example.com/videos/sample_side_video.mp4"
+        },
+        {
+          "regionId": "sidebar",
+          "type": "text",
+          "content": "Now playing: Weekly highlights"
+        }
+      ]
+    },
+    {
+      "id": "item_007",
+      "type": "emergency",
+      "priority": "high",
+      "durationSeconds": 0,
+      "content": "EMERGENCY: Please proceed to nearest exit."
+    }
+  ]
+}
