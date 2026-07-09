@@ -7,7 +7,7 @@
       "id": "item_001",
       "type": "video",
       "durationSeconds": 30,
-      "mediaUrl": "https://cdn.example.com/videos/sample_promo.mp4"
+      "mediaUrl": "http://192.168.1.97:3001/file_example.mp4"
     },
     {
       "id": "item_002",
