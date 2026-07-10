@@ -6,7 +6,6 @@
     {
       "id": "item_001",
       "type": "video",
-      "durationSeconds": 30,
       "mediaUrl": "http://192.168.1.97:3001/file_example.mp4"
     },
     {
@@ -31,7 +30,10 @@
       "id": "item_005",
       "type": "web",
       "durationSeconds": 20,
-      "mediaUrl": "https://example.com/signage-widget"
+      "mediaUrl": "https://example.com/signage-widget",
+      "metadata": {
+        "enableJavaScript": true
+      }
     },
     {
       "id": "item_006",
