@@ -31,9 +31,8 @@
       "type": "web",
       "durationSeconds": 20,
       "mediaUrl": "https://example.com/signage-widget",
-      "metadata": {
-        "enableJavaScript": true
-      }
+       "metadata": "{\"enableJavaScript\":true}"
+
     },
     {
       "id": "item_006",
