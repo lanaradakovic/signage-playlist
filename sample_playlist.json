@@ -6,7 +6,7 @@
     {
       "id": "item_001",
       "type": "video",
-"mediaUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"    },
+"mediaUrl": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4"   },
     {
       "id": "item_002",
       "type": "image",
