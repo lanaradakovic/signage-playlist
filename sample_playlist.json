@@ -8,7 +8,7 @@
       "type": "video",
       "mediaUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
       "enabled": true,
-      "orderIndex": 1
+      "orderIndex": 0
     },
     {
       "id": "item_002",
@@ -16,7 +16,7 @@
       "durationSeconds": 10,
       "mediaUrl": "http://192.168.1.97:3001/calculator.png",
       "enabled": true,
-      "orderIndex": 2
+      "orderIndex": 1
     },
     {
       "id": "item_003",
@@ -24,7 +24,7 @@
       "durationSeconds": 8,
       "content": "Welcome to our store! Today's special offers inside.",
       "enabled": true,
-      "orderIndex": 3
+      "orderIndex": 2
     },
     {
       "id": "item_004",
@@ -32,7 +32,7 @@
       "durationSeconds": 5,
       "content": "SALE - Up to 50% off this weekend only",
       "enabled": true,
-      "orderIndex": 4
+      "orderIndex": 3
     },
     {
       "id": "item_005",
@@ -41,14 +41,14 @@
       "mediaUrl": "https://example.com/signage-widget",
       "metadata": "{\"enableJavaScript\":true}",
       "enabled": true,
-      "orderIndex": 5
+      "orderIndex": 4
     },
     {
       "id": "item_006",
       "type": "layout",
       "durationSeconds": 15,
       "enabled": true,
-      "orderIndex": 6,
+      "orderIndex": 5,
       "regions": [
         {
           "regionId": "main",
@@ -69,7 +69,7 @@
       "durationSeconds": 0,
       "content": "EMERGENCY: Please proceed to nearest exit.",
       "enabled": true,
-      "orderIndex": 7
+      "orderIndex": 6
     }
   ]
 }
