@@ -21,7 +21,7 @@
       "id": "item_002",
       "type": "image",
       "durationSeconds": 10,
-      "mediaUrl": "http://192.168.1.97:3001/calculator.png",
+      "mediaUrl": "https://picsum.photos/id/237/1280/720",
       "priority": "normal",
       "enabled": true,
       "position": 1,
