@@ -6,7 +6,7 @@
   "startDate": "2026-07-14",
   "endDate": "2026-07-15",
   "startTime": "00:00",
-  "endTime": "15:07",
+  "endTime": "15:12",
   "items": [
     {
       "id": "item_001",
@@ -128,11 +128,11 @@
   "version": 1,
   "startDate": "2026-07-15",
   "endDate": "2026-07-16",
-  "startTime": "15:07",
+  "startTime": "15:12",
   "endTime": "23:59",
   "items": [
     {
-      "id": "item_001",
+      "id": "item_0011",
       "type": "video",
       "durationSeconds": 30,
       "mediaUrl": "http://192.168.1.97:3001/file_example.mp4",
@@ -142,7 +142,7 @@
       "weekDay": null
     },
     {
-      "id": "item_002",
+      "id": "item_0022",
       "type": "image",
       "durationSeconds": 10,
       "mediaUrl": "https://picsum.photos/id/237/1280/720",
@@ -152,7 +152,7 @@
       "weekDay": null
     },
     {
-      "id": "item_003",
+      "id": "item_0033",
       "type": "text",
       "durationSeconds": 8,
       "content": "Welcome to our store! Today's special offers inside.",
@@ -162,7 +162,7 @@
       "weekDay": null
     },
     {
-      "id": "item_004",
+      "id": "item_0044",
       "type": "banner",
       "durationSeconds": 5,
       "content": "SALE - Up to 50% off this weekend only",
@@ -172,7 +172,7 @@
       "weekDay": "SAT,SUN"
     },
     {
-      "id": "item_005",
+      "id": "item_0055",
       "type": "web",
       "durationSeconds": 20,
       "mediaUrl": "https://example.com/signage-widget",
@@ -183,7 +183,7 @@
       "weekDay": null
     },
     {
-      "id": "item_006",
+      "id": "item_0066",
       "type": "layout",
       "durationSeconds": 15,
       "priority": "normal",
@@ -204,7 +204,7 @@
       ]
     },
     {
-      "id": "item_007",
+      "id": "item_0077",
       "type": "emergency",
       "durationSeconds": 10,
       "content": "EMERGENCY: Please proceed to nearest exit.",
@@ -214,7 +214,7 @@
       "weekDay": null
     },
     {
-      "id": "item_008",
+      "id": "item_0088",
       "type": "text",
       "durationSeconds": 8,
       "content": "Radnim danima: pogledajte našu ponudu za posao.",
@@ -224,7 +224,7 @@
       "weekDay": "MON,TUE,WED,THU,FRI"
     },
     {
-      "id": "item_009",
+      "id": "item_0099",
       "type": "banner",
       "durationSeconds": 6,
       "content": "Ovaj banner je isključen (enabled=false) - test za scheduler",
@@ -234,7 +234,7 @@
       "weekDay": null
     },
     {
-      "id": "item_010",
+      "id": "item_0101",
       "type": "text",
       "durationSeconds": 8,
       "content": "Ovaj tekst je van datumskog opsega plejliste (test)",
