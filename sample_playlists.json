@@ -1,0 +1,248 @@
+[
+  {
+  "playlistId": "sample_playlist_001",
+  "playlistName": "Sample Signage Playlist",
+  "version": 1,
+  "startDate": "2026-01-01",
+  "endDate": "2026-12-31",
+  "startTime": "00:00",
+  "endTime": "23:59",
+  "items": [
+    {
+      "id": "item_001",
+      "type": "video",
+      "durationSeconds": 30,
+      "mediaUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "priority": "normal",
+      "enabled": true,
+      "position": 0,
+      "weekDay": null
+    },
+    {
+      "id": "item_002",
+      "type": "image",
+      "durationSeconds": 10,
+      "mediaUrl": "https://picsum.photos/id/237/1280/720",
+      "priority": "normal",
+      "enabled": true,
+      "position": 1,
+      "weekDay": null
+    },
+    {
+      "id": "item_003",
+      "type": "text",
+      "durationSeconds": 8,
+      "content": "Welcome to our store! Today's special offers inside.",
+      "priority": "normal",
+      "enabled": true,
+      "position": 2,
+      "weekDay": null
+    },
+    {
+      "id": "item_004",
+      "type": "banner",
+      "durationSeconds": 5,
+      "content": "SALE - Up to 50% off this weekend only",
+      "priority": "normal",
+      "enabled": true,
+      "position": 3,
+      "weekDay": "SAT,SUN"
+    },
+    {
+      "id": "item_005",
+      "type": "web",
+      "durationSeconds": 20,
+      "mediaUrl": "https://example.com/signage-widget",
+      "metadata": "{\"enableJavaScript\":true}",
+      "priority": "normal",
+      "enabled": true,
+      "position": 4,
+      "weekDay": null
+    },
+    {
+      "id": "item_006",
+      "type": "layout",
+      "durationSeconds": 15,
+      "priority": "normal",
+      "enabled": true,
+      "position": 5,
+      "weekDay": null,
+      "regions": [
+        {
+          "regionId": "main",
+          "type": "video",
+          "mediaUrl": "https://cdn.example.com/videos/sample_side_video.mp4"
+        },
+        {
+          "regionId": "sidebar",
+          "type": "text",
+          "content": "Now playing: Weekly highlights"
+        }
+      ]
+    },
+    {
+      "id": "item_007",
+      "type": "emergency",
+      "durationSeconds": 10,
+      "content": "EMERGENCY: Please proceed to nearest exit.",
+      "priority": "high",
+      "enabled": true,
+      "position": 6,
+      "weekDay": null
+    },
+    {
+      "id": "item_008",
+      "type": "text",
+      "durationSeconds": 8,
+      "content": "Radnim danima: pogledajte našu ponudu za posao.",
+      "priority": "normal",
+      "enabled": true,
+      "position": 7,
+      "weekDay": "MON,TUE,WED,THU,FRI"
+    },
+    {
+      "id": "item_009",
+      "type": "banner",
+      "durationSeconds": 6,
+      "content": "Ovaj banner je isključen (enabled=false) - test za scheduler",
+      "priority": "normal",
+      "enabled": false,
+      "position": 8,
+      "weekDay": null
+    },
+    {
+      "id": "item_010",
+      "type": "text",
+      "durationSeconds": 8,
+      "content": "Ovaj tekst je van datumskog opsega plejliste (test)",
+      "priority": "normal",
+      "enabled": true,
+      "position": 9,
+      "weekDay": null
+    }
+  ]
+},
+  {
+  "playlistId": "sample_playlist_002",
+  "playlistName": "Sample Signage Playlist",
+  "version": 1,
+  "startDate": "2026-01-01",
+  "endDate": "2026-12-31",
+  "startTime": "00:00",
+  "endTime": "23:59",
+  "items": [
+    {
+      "id": "item_001",
+      "type": "video",
+      "durationSeconds": 30,
+      "mediaUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "priority": "normal",
+      "enabled": true,
+      "position": 0,
+      "weekDay": null
+    },
+    {
+      "id": "item_002",
+      "type": "image",
+      "durationSeconds": 10,
+      "mediaUrl": "https://picsum.photos/id/237/1280/720",
+      "priority": "normal",
+      "enabled": true,
+      "position": 1,
+      "weekDay": null
+    },
+    {
+      "id": "item_003",
+      "type": "text",
+      "durationSeconds": 8,
+      "content": "Welcome to our store! Today's special offers inside.",
+      "priority": "normal",
+      "enabled": true,
+      "position": 2,
+      "weekDay": null
+    },
+    {
+      "id": "item_004",
+      "type": "banner",
+      "durationSeconds": 5,
+      "content": "SALE - Up to 50% off this weekend only",
+      "priority": "normal",
+      "enabled": true,
+      "position": 3,
+      "weekDay": "SAT,SUN"
+    },
+    {
+      "id": "item_005",
+      "type": "web",
+      "durationSeconds": 20,
+      "mediaUrl": "https://example.com/signage-widget",
+      "metadata": "{\"enableJavaScript\":true}",
+      "priority": "normal",
+      "enabled": true,
+      "position": 4,
+      "weekDay": null
+    },
+    {
+      "id": "item_006",
+      "type": "layout",
+      "durationSeconds": 15,
+      "priority": "normal",
+      "enabled": true,
+      "position": 5,
+      "weekDay": null,
+      "regions": [
+        {
+          "regionId": "main",
+          "type": "video",
+          "mediaUrl": "https://cdn.example.com/videos/sample_side_video.mp4"
+        },
+        {
+          "regionId": "sidebar",
+          "type": "text",
+          "content": "Now playing: Weekly highlights"
+        }
+      ]
+    },
+    {
+      "id": "item_007",
+      "type": "emergency",
+      "durationSeconds": 10,
+      "content": "EMERGENCY: Please proceed to nearest exit.",
+      "priority": "high",
+      "enabled": true,
+      "position": 6,
+      "weekDay": null
+    },
+    {
+      "id": "item_008",
+      "type": "text",
+      "durationSeconds": 8,
+      "content": "Radnim danima: pogledajte našu ponudu za posao.",
+      "priority": "normal",
+      "enabled": true,
+      "position": 7,
+      "weekDay": "MON,TUE,WED,THU,FRI"
+    },
+    {
+      "id": "item_009",
+      "type": "banner",
+      "durationSeconds": 6,
+      "content": "Ovaj banner je isključen (enabled=false) - test za scheduler",
+      "priority": "normal",
+      "enabled": false,
+      "position": 8,
+      "weekDay": null
+    },
+    {
+      "id": "item_010",
+      "type": "text",
+      "durationSeconds": 8,
+      "content": "Ovaj tekst je van datumskog opsega plejliste (test)",
+      "priority": "normal",
+      "enabled": true,
+      "position": 9,
+      "weekDay": null
+    }
+  ]
+}
+]
