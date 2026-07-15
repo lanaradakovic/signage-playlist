@@ -6,7 +6,7 @@
   "startDate": "2026-07-14",
   "endDate": "2026-07-15",
   "startTime": "00:00",
-  "endTime": "15:15",
+  "endTime": "15:20",
   "items": [
     {
       "id": "item_001",
@@ -128,7 +128,7 @@
   "version": 1,
   "startDate": "2026-07-15",
   "endDate": "2026-07-16",
-  "startTime": "15:15",
+  "startTime": "15:20",
   "endTime": "23:59",
   "items": [
     {
