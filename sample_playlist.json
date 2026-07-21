@@ -11,7 +11,7 @@
       "id": "item_001",
       "type": "image",
       "durationSeconds": 10,
-      "mediaUrl": "https://picsum.photos/id/237/1280/720",
+      "mediaUrl": "http://192.168.1.97:3001/Echogram-others/Experiment-Mobile-V2.jpg",
       "priority": "normal",
       "enabled": true,
       "position": 0,
