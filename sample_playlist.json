@@ -45,7 +45,7 @@
       "priority": "normal",
       "enabled": true,
       "position": 3,
-      "weekDay": "SAT,SUN"
+      "weekDay": "TUE"
     },
     {
       "id": "item_005",
