@@ -51,7 +51,7 @@
       "id": "item_005",
       "type": "web",
       "durationSeconds": 20,
-      "mediaUrl": "https://example.com/signage-widget",
+      "mediaUrl": "https://kantech.dev",
       "metadata": "{\"enableJavaScript\":true}",
       "priority": "normal",
       "enabled": true,
