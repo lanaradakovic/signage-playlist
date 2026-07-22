@@ -45,7 +45,7 @@
       "priority": "normal",
       "enabled": true,
       "position": 3,
-      "weekDay": "TUE"
+      "weekDay": ["TUE"]
     },
     {
       "id": "item_005",
@@ -97,7 +97,7 @@
       "priority": "normal",
       "enabled": true,
       "position": 7,
-      "weekDay": "MON,TUE,WED,THU,FRI"
+      "weekDay": ["MON", "TUE", "WED", "THU", "FRI"]
     },
     {
       "id": "item_009",
