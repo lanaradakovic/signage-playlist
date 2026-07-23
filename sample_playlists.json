@@ -59,27 +59,21 @@
         "position": 4,
         "weekDay": null
       },
-      {
-        "id": "item_006",
-        "type": "layout",
-        "durationSeconds": 15,
-        "priority": "normal",
-        "enabled": true,
-        "position": 5,
-        "weekDay": null,
-        "regions": [
-          {
-            "regionId": "main",
-            "type": "video",
-            "mediaUrl": "https://cdn.example.com/videos/sample_side_video.mp4"
-          },
-          {
-            "regionId": "sidebar",
-            "type": "text",
-            "content": "Now playing: Weekly highlights"
-          }
-        ]
-      },
+     {
+  "id": "item_0066",
+  "type": "layout",
+  "durationSeconds": 15,
+  "priority": "normal",
+  "enabled": true,
+  "position": 5,
+  "weekDay": null,
+  "regions": [
+    { "regionPosition": 1, "type": "video", "mediaUrl": "http://192.168.1.97:3001/file_example.mp4", "content": null },
+    { "regionPosition": 2, "type": "image", "mediaUrl": "http://192.168.1.97:3001/Echogram-others/Experiment-Mobile-V2.jpg", "content": null },
+    { "regionPosition": 3, "type": "text", "mediaUrl": null, "content": "Region 3 tekst" },
+    { "regionPosition": 4, "type": "banner", "mediaUrl": null, "content": "Region 4 banner" }
+  ]
+},
       {
         "id": "item_007",
         "type": "emergency",
@@ -183,26 +177,18 @@
         "weekDay": null
       },
       {
-        "id": "item_0066",
-        "type": "layout",
-        "durationSeconds": 9,
-        "priority": "normal",
-        "enabled": true,
-        "position": 5,
-        "weekDay": null,
-        "regions": [
-          {
-            "regionId": "main",
-            "type": "video",
-            "mediaUrl": "https://cdn.example.com/videos/sample_side_video.mp4"
-          },
-          {
-            "regionId": "sidebar",
-            "type": "text",
-            "content": "Now playing: Weekly highlights"
-          }
-        ]
-      },
+  "id": "item_0066",
+  "type": "layout",
+  "durationSeconds": 9,
+  "priority": "normal",
+  "enabled": true,
+  "position": 5,
+  "weekDay": null,
+  "regions": [
+    { "regionPosition": 1, "type": "video", "mediaUrl": "http://192.168.1.97:3001/file_example.mp4", "content": null },
+    { "regionPosition": 2, "type": "text", "mediaUrl": null, "content": "Now playing: Weekly highlights (Playlist 2)" }
+  ]
+},
       {
         "id": "item_0077",
         "type": "emergency",
