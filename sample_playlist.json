@@ -62,7 +62,7 @@
   "id": "item_0066",
   "type": "layout",
   "durationSeconds": 15,
-  "mediaUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+  "mediaUrl": "http://192.168.1.97:3001/file_example.mp4"
   "content": "Now playing: Weekly highlights",
   "priority": "normal",
   "enabled": true,
