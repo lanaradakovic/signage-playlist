@@ -21,7 +21,7 @@
       {
         "id": "item_002",
         "type": "image",
-        "durationSeconds": 10,
+        "durationSeconds": 5,
         "mediaUrl": "https://picsum.photos/id/237/1280/720",
         "priority": "normal",
         "enabled": true,
@@ -31,7 +31,7 @@
       {
         "id": "item_003",
         "type": "text",
-        "durationSeconds": 8,
+        "durationSeconds": 5,
         "content": "PLEJLISTA 1: Welcome to our store! Today's special offers inside.",
         "priority": "normal",
         "enabled": true,
@@ -51,7 +51,7 @@
       {
         "id": "item_005",
         "type": "web",
-        "durationSeconds": 10,
+        "durationSeconds": 5,
         "mediaUrl": "https://example.com/signage-widget",
         "metadata": "{\"enableJavaScript\":true}",
         "priority": "normal",
@@ -77,7 +77,7 @@
       {
         "id": "item_007",
         "type": "emergency",
-        "durationSeconds": 10,
+        "durationSeconds": 5,
         "content": "EMERGENCY: Please proceed to nearest exit.",
         "priority": "high",
         "enabled": true,
@@ -87,7 +87,7 @@
       {
         "id": "item_008",
         "type": "text",
-        "durationSeconds": 8,
+        "durationSeconds": 5,
         "content": "PLEJLISTA 1: Radnim danima: pogledajte našu ponudu za posao.",
         "priority": "normal",
         "enabled": true,
@@ -97,7 +97,7 @@
       {
         "id": "item_009",
         "type": "banner",
-        "durationSeconds": 6,
+        "durationSeconds": 5,
         "content": "Ovaj banner je isključen (enabled=false) - test za scheduler",
         "priority": "normal",
         "enabled": false,
@@ -107,7 +107,7 @@
       {
         "id": "item_010",
         "type": "text",
-        "durationSeconds": 8,
+        "durationSeconds": 5,
         "content": "Ovaj tekst je van datumskog opsega plejliste (test)",
         "priority": "normal",
         "enabled": true,
@@ -138,7 +138,7 @@
       {
         "id": "item_0022",
         "type": "image",
-        "durationSeconds": 10,
+        "durationSeconds": 5,
         "mediaUrl": "http://192.168.1.97:3001/Echogram-others/Experiment-Mobile-V2.jpg",
         "priority": "normal",
         "enabled": true,
@@ -148,7 +148,7 @@
       {
         "id": "item_0033",
         "type": "text",
-        "durationSeconds": 8,
+        "durationSeconds": 5,
         "content": "PLEJLISTA 2: Prešli smo na drugu plejlistu — ovo je test tekst.",
         "priority": "normal",
         "enabled": true,
@@ -168,7 +168,7 @@
       {
         "id": "item_0055",
         "type": "web",
-        "durationSeconds": 10,
+        "durationSeconds": 5,
         "mediaUrl": "https://kantech.dev",
         "metadata": "{\"enableJavaScript\":true}",
         "priority": "normal",
@@ -179,7 +179,7 @@
       {
   "id": "item_0066",
   "type": "layout",
-  "durationSeconds": 9,
+  "durationSeconds": 5,
   "priority": "normal",
   "enabled": true,
   "position": 5,
@@ -192,7 +192,7 @@
       {
         "id": "item_0077",
         "type": "emergency",
-        "durationSeconds": 10,
+        "durationSeconds": 5,
         "content": "EMERGENCY (Playlist 2): Please proceed to nearest exit.",
         "priority": "high",
         "enabled": true,
@@ -202,7 +202,7 @@
       {
         "id": "item_0088",
         "type": "text",
-        "durationSeconds": 8,
+        "durationSeconds": 5,
         "content": "PLEJLISTA 2: Radnim danima: pogledajte našu drugu ponudu.",
         "priority": "normal",
         "enabled": true,
@@ -212,7 +212,7 @@
       {
         "id": "item_0099",
         "type": "banner",
-        "durationSeconds": 6,
+        "durationSeconds": 5,
         "content": "Ovaj banner je isključen (enabled=false) - test za scheduler",
         "priority": "normal",
         "enabled": false,
@@ -222,7 +222,7 @@
       {
         "id": "item_0101",
         "type": "text",
-        "durationSeconds": 8,
+        "durationSeconds": 5,
         "content": "Ovo je tekst 2. plejliste",
         "priority": "normal",
         "enabled": true,
