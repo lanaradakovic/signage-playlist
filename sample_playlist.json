@@ -59,26 +59,16 @@
       "weekDay": null
     },
     {
-      "id": "item_006",
-      "type": "layout",
-      "durationSeconds": 15,
-      "priority": "normal",
-      "enabled": true,
-      "position": 5,
-      "weekDay": null,
-      "regions": [
-        {
-          "regionId": "main",
-          "type": "video",
-          "mediaUrl": "https://cdn.example.com/videos/sample_side_video.mp4"
-        },
-        {
-          "regionId": "sidebar",
-          "type": "text",
-          "content": "Now playing: Weekly highlights"
-        }
-      ]
-    },
+  "id": "item_0066",
+  "type": "layout",
+  "durationSeconds": 15,
+  "mediaUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+  "content": "Now playing: Weekly highlights",
+  "priority": "normal",
+  "enabled": true,
+  "position": 5,
+  "weekDay": null
+},
     {
       "id": "item_007",
       "type": "emergency",
