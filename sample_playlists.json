@@ -11,7 +11,7 @@
       {
         "id": "item_001",
         "type": "video",
-        "durationSeconds": 30,
+        "durationSeconds": 2,
         "mediaUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
         "priority": "normal",
         "enabled": true,
