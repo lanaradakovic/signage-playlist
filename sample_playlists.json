@@ -6,7 +6,7 @@
     "startDate": "2026-07-26",
     "endDate": "2026-07-27",
     "startTime": "00:00",
-    "endTime": "14:43",
+    "endTime": "15:20",
     "items": [
       {
         "id": "item_001",
@@ -46,7 +46,7 @@
         "priority": "normal",
         "enabled": true,
         "position": 3,
-        "weekDay": ["SAT", "SUN"]
+        "weekDay": ["MON", "SAT", "SUN"]
       },
       {
         "id": "item_005",
@@ -122,7 +122,7 @@
     "version": 1,
     "startDate": "2026-07-27",
     "endDate": "2026-07-28",
-    "startTime": "14:43",
+    "startTime": "15:20",
     "endTime": "23:59",
     "items": [
       {
