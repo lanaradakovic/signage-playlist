@@ -3,10 +3,10 @@
     "playlistId": "sample_playlist_001",
     "playlistName": "Sample Signage Playlist",
     "version": 1,
-    "startDate": "26-07-2026",
-    "endDate": "27-07-2026",
+    "startDate": "26-07-30",
+    "endDate": "27-07-31",
     "startTime": "00:00",
-    "endTime": "17:38",
+    "endTime": "12:05",
     "items": [
       {
         "id": "item_001",
@@ -120,9 +120,9 @@
     "playlistId": "sample_playlist_002",
     "playlistName": "Second Test Playlist",
     "version": 1,
-    "startDate": "2026-07-27",
-    "endDate": "2026-07-28",
-    "startTime": "17:38",
+    "startDate": "2026-07-31",
+    "endDate": "2026-08-01",
+    "startTime": "12:05",
     "endTime": "23:59",
     "items": [
       {
